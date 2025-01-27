@@ -278,7 +278,7 @@ Login Succeeded
 
 ### Build your first Docker Image
 
-You need to change the username accoringly in the below command
+You need to change the username accordingly in the below command
 
 ```
 docker build -t abhishekf5/my-first-docker-image:latest .
